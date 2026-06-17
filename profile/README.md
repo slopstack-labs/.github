@@ -21,7 +21,7 @@ SlopStack Labs produces AI-native reimaginings of the foundational tools every d
 | [slop-science](https://github.com/slopstack-labs/slop-science) | The SlopStack Data Science Suite — AI-native model evaluation, tokenmaxxed visualizations, and a Zero-Miss SQL data lake | ✅ shipped |
 | [slop-git](https://github.com/slopstack-labs/slop-git) | Narrative-driven version control — merge conflicts resolved with empathy, not algorithms | ✅ shipped |
 | [sloppy-toppy](https://github.com/slopstack-labs/sloppy-toppy) | System monitor that seductively roasts you for your PC usage | ✅ shipped |
-| slop-os | Ground-up Rust OS with inference baked into the kernel — the first operating system that reasons about your intent before scheduling your process | ✅ shipped |
+| slop-os | Ground-up Rust OS with inference baked into the kernel — the first operating system that reasons about your intent before scheduling your process | 🔄 in progress |
 | sloppad-- | Inference-augmented text editor — every save is a collaborative rewrite between you and the model | 🔄 in progress |
 | sloppy-cli | AI-native agent harness with ambient video rendering and curated not-so-fun-fact delivery | 🔄 in progress |
 | Sloplinker | Inference-layer symbol resolution | 🔄 in progress |
