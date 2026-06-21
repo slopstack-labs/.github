@@ -20,6 +20,7 @@ SlopStack Labs produces AI-native reimaginings of the foundational tools every d
 | [slop-frames](https://github.com/slopstack-labs/slop-frames) | Schema-free, inference-backed DataFrame computation layer with pluggable model backends | ✅ shipped |
 | [slop-science](https://github.com/slopstack-labs/slop-science) | The SlopStack Data Science Suite — AI-native model evaluation, tokenmaxxed visualizations, and a Zero-Miss SQL data lake | ✅ shipped |
 | [slop-git](https://github.com/slopstack-labs/slop-git) | Narrative-driven version control — merge conflicts resolved with empathy, not algorithms | ✅ shipped |
+| [pit](https://github.com/slopstack-labs/pit) | Prompt-native version control — commit intent, not code; the entire project is rebuilt from the prompt log on demand | ✅ shipped |
 | [sloppy-toppy](https://github.com/slopstack-labs/sloppy-toppy) | System monitor that seductively roasts you for your PC usage | ✅ shipped |
 | slop-os | Ground-up Rust OS with inference baked into the kernel — the first operating system that reasons about your intent before scheduling your process | 🔄 in progress |
 | sloppad-- | Inference-augmented text editor — every save is a collaborative rewrite between you and the model | 🔄 in progress |
