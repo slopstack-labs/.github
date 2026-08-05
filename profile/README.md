@@ -22,6 +22,8 @@ SlopStack Labs produces AI-native reimaginings of the foundational tools every d
 | [slop-git](https://github.com/slopstack-labs/slop-git) | Narrative-driven version control — merge conflicts resolved with empathy, not algorithms | ✅ shipped |
 | [pit](https://github.com/slopstack-labs/pit) | Prompt-native version control — commit intent, not code; the entire project is rebuilt from the prompt log on demand | ✅ shipped |
 | [sloppy-toppy](https://github.com/slopstack-labs/sloppy-toppy) | System monitor that seductively roasts you for your PC usage | ✅ shipped |
+| [sloppinux](https://github.com/slopstack-labs/sloppinux) | Inference-first Linux distribution — unknown commands are routed to an LLM for holistic intent resolution, root access included | ✅ shipped |
+| [sloppify](https://github.com/slopstack-labs/sloppify) | Spotify-inspired desktop music player with zero real songs — every track is hallucinated live as Strudel pattern code | ✅ shipped |
 | slop-os | Ground-up Rust OS with inference baked into the kernel — the first operating system that reasons about your intent before scheduling your process | 🔄 in progress |
 | sloppad-- | Inference-augmented text editor — every save is a collaborative rewrite between you and the model | 🔄 in progress |
 | sloppy-cli | AI-native agent harness with ambient video rendering and curated not-so-fun-fact delivery | 🔄 in progress |
